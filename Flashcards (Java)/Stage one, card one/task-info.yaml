@@ -1,0 +1,11 @@
+type: edu
+files:
+  - name: src/flashcards/Main.java
+    visible: true
+    learner_created: false
+  - name: test/FlashcardsTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/44/stages/232/implement#comment
+status: Solved
+record: -1

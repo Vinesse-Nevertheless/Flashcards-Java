@@ -1,0 +1,49 @@
+type: edu
+files:
+  - name: src/flashcards/Main.java
+    visible: true
+    learner_created: false
+  - name: test/FlashcardsTest.java
+    learner_created: false
+  - name: src/flashcards/DeckCreator.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/flashcards/Main.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/flashcards/Commands.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/flashcards/Logger.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/flashcards/UserInput.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/flashcards/Statistics.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/flashcards/Validation.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/flashcards/DeckStore.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/flashcards/DualPrintStreamLogger.class
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/44/stages/237/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 22 Apr 2026 21:38:24 UTC"
+record: -1

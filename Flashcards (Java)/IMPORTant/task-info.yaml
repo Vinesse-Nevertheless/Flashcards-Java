@@ -1,0 +1,15 @@
+type: edu
+files:
+  - name: src/flashcards/Main.java
+    visible: true
+    learner_created: false
+  - name: test/FlashcardsTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/44/stages/238/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Fri, 24 Apr 2026 22:45:26 UTC"
+record: -1
